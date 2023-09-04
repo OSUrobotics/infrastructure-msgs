@@ -1,0 +1,4 @@
+string arm
+string gripper
+geometry_msgs/PoseStamped grasp_pose
+string pull_type
