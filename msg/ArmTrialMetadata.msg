@@ -1,3 +1,4 @@
+float32 rotation_or_force
 string arm
 string gripper
 geometry_msgs/PoseStamped grasp_pose
